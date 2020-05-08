@@ -1,4 +1,4 @@
-# coarse-grained-DDMP
+# archived-DDMP
 
 ### Execution:
 
